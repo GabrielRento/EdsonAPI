@@ -1,0 +1,6 @@
+@EdsonApi_HostAddress = http://localhost:5014
+
+GET {{EdsonApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
